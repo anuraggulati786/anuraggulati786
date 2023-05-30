@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Dsa related works of any type.
 - 📫 How to reach me 
 -                       mail : anuraggulati241@gmail.com
+                                        or
+                               anuraggulati786@gmail.com
+                               
 -                       linkedin : www.linkedin.com/in/anurag-gulati-75a44b205
 -                       
 
