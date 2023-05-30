@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag Gulati
 - 👀 I’m interested in Problem Solving , DataStructures and Algorithm's , Competetive Programming , Software Development.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working on MERN ChatApp.
 - 💞️ I’m looking to collaborate on Dsa related works of any type.
 - 📫 How to reach me 
 -                       mail : anuraggulati241@gmail.com
