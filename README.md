@@ -14,9 +14,12 @@
       
       Led the end-to-end onboarding of a marketing communications service, mentoring two junior developers, implementing rigorous testing, and delivering on time—earning praise for exceptional quality and execution.
       Designed and deployed fully automated build-and-release pipelines, slashing manual deployment effort by 90%.
+   
       Engineered high-performance automation flows processing 10,000+ records per hour, reducing manual workload by 98%.
+   
       Built a robust React application to streamline over 300 monthly marketing requests, cutting customer inquiry response times by 40% and elevating team efficiency and satisfaction.
       Revamped 250 communication emails in just 20 days to boost engagement and clarity, recognized for outstanding attention to detail and impact.
+   
       Integrated AI tools to streamline workflows, minimizing daily operational hurdles.
 
 <!---
